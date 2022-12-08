@@ -27,7 +27,7 @@ for Backend:
 for Backend using both Javascript and Typescript:
 
 ```json
-"extends": "@day1co/tsconfig/backend-compat.json"
+"extends": "@day1co/tsconfig/backend-mixed.json"
 ```
 
 ---
